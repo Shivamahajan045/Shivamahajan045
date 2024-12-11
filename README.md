@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Wanderlust**
 
-- 🌱 I’m currently learning **React.JS, Express.JS**
+- 🌱 I’m currently learning **React.JS**
 
 - 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, BOOTSTRAP, SQL, MONGODB**
 

@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.JS**
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, JAVA, BOOTSTRAP, SQL, MONGODB**
+- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACTJS, JAVA, BOOTSTRAP, TAILWIND CSS, SQL, MONGODB, NODEJS, EXPRESS**
 
 - 📫 How to reach me **shivamahajan055@gmail.com**
 

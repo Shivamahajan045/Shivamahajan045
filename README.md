@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamahajan045&label=Profile%20views&color=0e75b6&style=flat" alt="shivamahajan045" /> </p>
 
-- 🔭 I’m currently working on **Wanderlust**
+- 🔭 I’m currently working on **Full Stack Projects**
 
 - 🌱 I’m currently learning **React.JS**
 

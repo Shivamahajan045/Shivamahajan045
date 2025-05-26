@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/v2/D5616AQH9owboFTZAjw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1730524851034?e=1736380800&v=beta&t=-K6fw7UCNN9PUbzF973APYN-uTifzgHUIAb3tF3hty4)
+![logo](https://media.licdn.com/dms/image/v2/D5603AQEeYJrLV-H46w/profile-displayphoto-shrink_800_800/B56ZZezsGZGQAc-/0/1745347331555?e=1753920000&v=beta&t=QG3IwjoKV8OIwjfWX8ZFz7LSRsOZYxrk-YyACiQh1dE)
 <h1 align="center">Hi 👋, I'm Shivakumar</h1>
 <h3 align="center">Aspiring MERN stack developer from India</h3>
 

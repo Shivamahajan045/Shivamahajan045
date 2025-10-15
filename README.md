@@ -1,4 +1,4 @@
-![logo]()
+
 <h1 align="center">Hi 👋, I'm Shivakumar</h1>
 <h3 align="center">Aspiring MERN stack developer from India</h3>
 
@@ -14,7 +14,6 @@
 
 - 📫 How to reach me **shivamahajan055@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
